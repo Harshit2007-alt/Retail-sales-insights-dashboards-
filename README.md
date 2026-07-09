@@ -96,35 +96,14 @@ This dashboard helps businesses to:
 
 ---
 
-## 7. Dashboard Preview
-
-### Summary Dashboard
+## Summary Dashboard
 
 ![Summary Dashboard](summary report.png)
 
-### Product Dashboard
+## Product Dashboard
 
 ![Product Dashboard](product report.png)
 
-### Customer Dashboard
+## Customer Dashboard
 
 ![Customer Dashboard](customer report.png)
-
----
-
-## 8. Author
-
-**Harshit Bhatia**
-
-Aspiring Data Analyst
-
-**Skills**
-- Power BI
-- SQL
-- Python
-- Excel
-- Data Analysis
-- Data Visualization
-- test
-- [dashobard preview](https://github.com/Harshit2007-alt/Retail-sales-insights-dashboards-/blob/main/product%20report.png)
-- 
