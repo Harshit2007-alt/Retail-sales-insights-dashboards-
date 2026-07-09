@@ -126,3 +126,5 @@ Aspiring Data Analyst
 - Data Analysis
 - Data Visualization
 - test
+- [dashobard preview](https://github.com/Harshit2007-alt/Retail-sales-insights-dashboards-/blob/main/product%20report.png)
+- 
