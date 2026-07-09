@@ -98,12 +98,12 @@ This dashboard helps businesses to:
 
 ## Summary Dashboard
 
-![Summary Dashboard](summary report.png)
+![Summary Dashboard](summary%20report.png)
 
 ## Product Dashboard
 
-![Product Dashboard](product report.png)
+![Product Dashboard](product%20report.png)
 
 ## Customer Dashboard
 
-![Customer Dashboard](customer report.png)
+![Customer Dashboard](customer%20report.png)
